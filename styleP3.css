@@ -1,0 +1,47 @@
+body {
+	background-image: url("../image/imgN3.jpg");
+	background-color: #cccccc;
+	background-repeat: no-repeat;
+	background-size: 2750px 2000px;
+}
+
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: red;
+}
+
+
+a {
+	font-size: 600%;
+	padding-left: 200px;
+	padding-right: 200px;
+	
+}
+
+header {
+	background-color: #3F0D69;
+}
+
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	text-decoration-color: darkred;
+	font-size: 50px;
+	color: #0007CA;
+}
+
+p {
+	font-size: 25px;
+	color: #00C1C3;
+	text-decoration: underline;
+	text-decoration-color: red;
+	
+}
+
+
